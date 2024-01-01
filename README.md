@@ -30,9 +30,7 @@ with open("file.txt","r") as f1:
 print("The number of words are in the file is",num)
 ```
 ### OUTPUT:
-![image](https://github.com/dharshanpt/Word-count/assets/138849376/043c72d8-4eca-43c8-a050-302d39457acb)
-
-
+![Screenshot 2024-01-01 222156](https://github.com/dharshanpt/Word-count/assets/138849376/182a2eb2-38d6-4bad-b985-5a57f31f8a14)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
